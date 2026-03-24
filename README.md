@@ -79,9 +79,7 @@
 
 **Фіксація процесу передачі файлів:**
 <p align="center">
-  <img src="https://i.ibb.co/jkPG9bLt/image.png" width="32%" />
   <img src="https://i.ibb.co/wNWLdNhM/image.png" width="32%" />
-  <img src="https://i.ibb.co/jZMZxHdz/image.png" width="32%" />
 </p>
 
 **Зворотне копіювання з Linux на Windows:**
