@@ -59,14 +59,12 @@
 На обох машинах підтверджено можливість роботи з медіаконтентом (YouTube) через браузер Firefox, що свідчить про коректне налаштування DNS та маршрутизації через NAT.
 <p align="center">
   <img src="https://i.ibb.co/27TjMdCt/image.png" width="48%" />
-  <img src="https://i.ibb.co/d4qMn5yV/image.png" width="48%" />
 </p>
 
 ### Міжмашинна комунікація (Chat/Messaging):
 Було продемонстровано передачу повідомлень за схемою "Сервер-Клієнт". Один вузол відкрив порт для прослуховування, а інший — ініціював з'єднання, що підтверджує відкритість портів у внутрішній мережі.
 <p align="center">
   <img src="https://i.ibb.co/nMQghgsD/image.png" width="32%" />
-  <img src="https://i.ibb.co/MxSF2t9J/image.png" width="32%" />
   <img src="https://i.ibb.co/Z1KwdzKJ/image.png" width="32%" />
 </p>
 
