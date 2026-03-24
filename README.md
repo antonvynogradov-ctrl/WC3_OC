@@ -58,7 +58,7 @@
 ### Перевірка зовнішнього зв'язку (Internet Connectivity):
 На обох машинах підтверджено можливість роботи з медіаконтентом (YouTube) через браузер Firefox, що свідчить про коректне налаштування DNS та маршрутизації через NAT.
 <p align="center">
-  <img src="https://i.ibb.co/27TjMdCt/image.png" width="48%" />
+  <a href="https://ibb.co/4Lc80Jv"><img src="https://i.ibb.co/nyT7KRd/photo-2026-03-24-22-49-23.jpg" alt="photo 2026 03 24 22 49 23" border="0"></a>
 </p>
 
 ### Міжмашинна комунікація (Chat/Messaging):
