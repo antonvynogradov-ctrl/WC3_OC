@@ -20,7 +20,7 @@
 </p>
 <p align="center">
   <img src="https://i.ibb.co/ks4jHFWY/image.png" width="48%" />
-  <img src="https://i.ibb.co/RkcQPpBH/image.png" width="48%" />
+  <a href="https://ibb.co/v6hhnvLP"><img src="https://i.ibb.co/RkNNw4Q0/photo-2026-03-24-22-46-51.jpg" alt="photo 2026 03 24 22 46 51" border="0"></a> />
 </p>
 
 ### 1.2 Експорт та перенесення систем (Appliance Export)
